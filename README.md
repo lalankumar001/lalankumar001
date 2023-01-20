@@ -1,7 +1,7 @@
 ![Homepageimage](https://user-images.githubusercontent.com/103441165/213643090-3dd84c8b-1dd0-49b6-aead-a0de2b6a0adc.png)
 
 
-### Hi there 👋
+                                  Hi there 👋 i'm Lalan Kumar 
 
 Here are some ideas to get you started:
 
