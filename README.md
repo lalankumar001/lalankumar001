@@ -1,4 +1,6 @@
-![Homepageimage](https://user-images.githubusercontent.com/103441165/213643090-3dd84c8b-1dd0-49b6-aead-a0de2b6a0adc.png)
+
+![Website designergif](https://user-images.githubusercontent.com/103441165/213646494-c9276b8b-f0d6-4ef8-a1f9-82261d6804b8.gif)
+
 
 
                                   Hi there 👋 i'm Lalan Kumar 
