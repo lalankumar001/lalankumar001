@@ -2,8 +2,7 @@
 
 
                                   Hi there 👋 i'm Lalan Kumar 
-
-Here are some ideas to get you started:
+                         A frontend Web developer , UI/UX Designer and Content Writer
 
 - 🔭 I’m currently working on Reactjs and Wordpress
 - 🌱 I’m currently learning Full Stack (Mern)
